@@ -1,0 +1,4 @@
+{
+  "ACME-17": { "name": "Acme Ltd", "plan": "Enterprise" },
+  "BOLT-3": { "name": "Bolt Studio", "plan": "Starter" }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "ticket-summarizer",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@langchain/core": "1.2.12",
+    "zod": "4.6.5"
+  }
+}

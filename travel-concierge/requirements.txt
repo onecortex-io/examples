@@ -1,0 +1,2 @@
+# The oldest OpenAI Agents SDK Onecortex supports, on purpose.
+openai-agents==0.21.0

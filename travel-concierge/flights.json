@@ -1,0 +1,9 @@
+{
+  "london-lisbon": [
+    { "flight": "TP1351", "departs": "07:10", "arrives": "09:55", "price_gbp": 94 },
+    { "flight": "BA500", "departs": "12:25", "arrives": "15:10", "price_gbp": 131 }
+  ],
+  "london-madrid": [
+    { "flight": "IB3171", "departs": "08:40", "arrives": "11:55", "price_gbp": 88 }
+  ]
+}

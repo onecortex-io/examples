@@ -1,0 +1,7 @@
+# The oldest LangGraph Onecortex supports, on purpose: its stream has no
+# `version` parameter, so this agent runs the adapter's older path in the cloud.
+# langgraph 1.0.0 accepts any langgraph-prebuilt 1.x, and the newest ones import
+# names 1.0.0 does not have, so the prebuilt is pinned alongside it.
+langgraph==1.0.0
+langgraph-prebuilt==1.0.0
+langchain-core==1.0.0

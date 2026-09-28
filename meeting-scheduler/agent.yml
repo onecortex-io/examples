@@ -1,0 +1,4 @@
+apiVersion: v1
+runtime: node22
+entrypoint: agent.ts#agent
+dependencies: package.json

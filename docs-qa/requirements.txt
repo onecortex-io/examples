@@ -1,0 +1,2 @@
+# The latest LlamaIndex: the scripted model this agent uses first shipped in it.
+llama-index-core==0.14.25

@@ -1,0 +1,6 @@
+{
+  "name": "order-status",
+  "private": true,
+  "type": "module",
+  "dependencies": {}
+}

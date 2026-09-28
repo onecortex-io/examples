@@ -1,0 +1,10 @@
+{
+  "name": "recipe-assistant",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@mastra/core": "1.71.0",
+    "ai": "7.0.116",
+    "zod": "4.6.5"
+  }
+}

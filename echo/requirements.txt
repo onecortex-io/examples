@@ -1,0 +1,2 @@
+# No dependencies on purpose. The file exists because agent.yml points at it,
+# and because an agent with an empty manifest is still worth proving.

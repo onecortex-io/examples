@@ -1,0 +1,4 @@
+{
+  "lisbon": { "sky": "sunny", "high_c": 26, "wind": "light" },
+  "edinburgh": { "sky": "rain", "high_c": 12, "wind": "strong" }
+}

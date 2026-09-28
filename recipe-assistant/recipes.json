@@ -1,0 +1,6 @@
+[
+  { "name": "Chickpea and spinach curry", "minutes": 30, "ingredients": ["chickpeas", "spinach", "tomatoes"], "diets": ["vegan", "vegetarian"] },
+  { "name": "Spinach and feta pie", "minutes": 50, "ingredients": ["spinach", "feta", "eggs"], "diets": ["vegetarian"] },
+  { "name": "Lemon chicken traybake", "minutes": 45, "ingredients": ["chicken", "lemon", "potatoes"], "diets": [] },
+  { "name": "Crispy chickpea salad", "minutes": 20, "ingredients": ["chickpeas", "cucumber", "lemon"], "diets": ["vegan", "vegetarian"] }
+]

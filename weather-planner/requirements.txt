@@ -1,0 +1,3 @@
+# The oldest Strands Onecortex supports, on purpose: its tool events and
+# invocation state take the adapter's older path.
+strands-agents==1.0.0

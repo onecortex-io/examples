@@ -1,0 +1,4 @@
+apiVersion: v1
+runtime: python3.12
+entrypoint: agent.py:crew
+dependencies: requirements.txt
