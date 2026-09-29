@@ -10,6 +10,7 @@ is exact, and each README says where a real model plugs in.
 |---|---|---|---|
 | [`echo`](echo) | Python | a plain function | https://docs.onecortex.io/frameworks/python-function |
 | [`support-triage`](support-triage) | Python | LangGraph | https://docs.onecortex.io/frameworks/langgraph |
+| [`refund-approval`](refund-approval) | Python | LangGraph, pausing for approval | https://docs.onecortex.io/build/human-in-the-loop |
 | [`travel-concierge`](travel-concierge) | Python | the OpenAI Agents SDK | https://docs.onecortex.io/frameworks/openai-agents |
 | [`weather-planner`](weather-planner) | Python | Strands Agents | https://docs.onecortex.io/frameworks/strands |
 | [`docs-qa`](docs-qa) | Python | LlamaIndex | https://docs.onecortex.io/frameworks/llamaindex |
